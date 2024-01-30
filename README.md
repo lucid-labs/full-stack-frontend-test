@@ -6,15 +6,12 @@ Design and implement a dashboard interface for the Aave lending protocol. The da
 ## Core Functionalities
 1. **Data Display:**
    - Display total supplied and total borrowed amounts in the Aave protocol.
-   - Show Loan-to-Value (LTV) and Health Factor of the user's account.
    - List individual asset positions (e.g., if a user has supplied ETH and USDC, show both supplies separately).
    - **UX Focus:** Prioritize user experience in the interface design. If additional fields or data points are needed to enhance UX, refer to Aave documentation and integrate those data points.
 
 2. **Protocol Interactions:**
    - Implement functions to supply, withdraw, borrow, and repay assets within the Aave protocol.
 
-3. **Transaction History:**
-   - Display the historical transactions of a user (can use third-party services).
 
 ## Constraints
 1. **UI Kit:** Use the UI components from [Shadcn UI Kit](https://ui.shadcn.com/).
@@ -33,12 +30,12 @@ Design and implement a dashboard interface for the Aave lending protocol. The da
 - **Functionality:** Adherence to the core functionalities and constraints.
 - **Code Quality:** Clarity, structure, and maintainability of code.
 - **Design Implementation:** Effectiveness in using the UI kit and creating an intuitive user experience.
-- **Technical Skills:** Ability to integrate with blockchain and third-party APIs.
+- **Technical Skills:** Ability to integrate with Aave and other ERC20 contracts.
 - **Scalability and Performance:** Efficiency of the solution and its potential scalability.
 - **Documentation:** Quality and clarity of the submitted documentation.
 
 ## Submission
 Submit your project as a GitHub repository. Include a README with instructions on how to set up and run your project, and a separate document detailing your approach, architecture, and decision-making process.
 
-## Timeframe
-You have 96 hours to complete this test from the time of receipt.
+## Time required
+The test should take about 8-10 hours to complete. In case of any queries, immediately reach out.
