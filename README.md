@@ -5,12 +5,12 @@ Design and implement a dashboard interface for the Aave lending protocol. The da
 
 ## Core Functionalities
 1. **Data Display:**
-   - Display total supplied and total borrowed amounts in the Aave protocol.
+   - Display total supplied and total borrowed amounts in the Aave V3 protocol.
    - List individual asset positions (e.g., if a user has supplied ETH and USDC, show both supplies separately).
    - **UX Focus:** Prioritize user experience in the interface design. If additional fields or data points are needed to enhance UX, refer to Aave documentation and integrate those data points.
 
 2. **Protocol Interactions:**
-   - Implement functions to supply, withdraw, borrow, and repay assets within the Aave protocol.
+   - Implement functions to supply, withdraw, borrow, and repay assets within the Aave V3 protocol.
 
 
 ## Constraints
